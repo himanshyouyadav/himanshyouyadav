@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
-<h3 align="center">A Undergraduate student in Data Science and Artificial Intelligence at IIIT Naya Raipur.</h3>
+<h3 align="center">A UG student in Data Science and Artificial Intelligence at IIIT Naya Raipur.</h3>
 
 <p align="left"> <a href="https://twitter.com/himanshyouyadav" target="blank"><img src="https://img.shields.io/twitter/follow/himanshyouyadav?logo=twitter&style=for-the-badge" alt="himanshyouyadav" /></a> </p>
 
